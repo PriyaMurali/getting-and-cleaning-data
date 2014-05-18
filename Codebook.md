@@ -1,4 +1,4 @@
-## Getting and Cleaning Data - peer assessment proejct
+## Getting and Cleaning Data - peer assessment project
 
 
 ## The original data was transformed by
