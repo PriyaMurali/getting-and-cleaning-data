@@ -38,3 +38,4 @@ This function creates a tidy data set with average of each variable for each act
 
 Function tidy_datafile:
 A new tidy independent dataset is generated and saved a text file to be submitted.
+
