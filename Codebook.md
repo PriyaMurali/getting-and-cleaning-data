@@ -11,7 +11,7 @@
 
 
 
-Because most of the features in the original dataset were derived or estimated to 2nd or 3rd order from the original dataset, I chose to focus on the measurements most closely related to the original data collected by the accelerometer and gyroscope - *tBodyAcc* and *tBodyGyro*. 
+ Because most of the features in the original dataset were derived or estimated to 2nd or 3rd order from the original dataset, I chose to focus on the measurements most closely related to the original data collected by the accelerometer and gyroscope - *tBodyAcc* and *tBodyGyro*. 
 
 As a result, the variables remaining are just the calculatd means and standard deviations of these sets of data - one each for the X, Y and Z dimensions:
 
