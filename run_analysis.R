@@ -2,7 +2,7 @@
 # Function for reading subject_train, X_train, y_train from the folder 'train'
 # and labelling and extracting the data for mean and standard deviation. 
 
-r_Data = function (fname, folder) {
+  r_Data = function (fname, folder) {
   path = file.path(folder, paste0("y_", fname, ".txt"))
   y_data = read.table(path, header=FALSE, col.names = c("ActiviytID"))
   
